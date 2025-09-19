@@ -13,8 +13,6 @@ Implement two tasks using Groq API:
 
 ## Submitted by
 - **Name:** Sehba Hanief  
-- **Course/Subject:** [Your Course Name]  
-- **Date:** [Submission Date]  
 
 ---
 
